@@ -8,6 +8,8 @@ Python script for testing login functionality with 3 test cases.
 2. **Invalid Password** - Test with wrong password to check error handling  
 3. **Empty Fields Validation** - Test with blank username/password
 
-## How to Run
+ ## How to Run
 ```bash
-python task2.py
+ python task2.py
+ ```
+      
